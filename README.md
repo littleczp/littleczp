@@ -1,2 +1,1 @@
-# czp
-⭐ From [littleczp](https://github.com/littleczp)
+# czp 👋
